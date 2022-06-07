@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;800&family=Poppins&family=Raleway&family=Roboto&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Roboto', sans-serif;
+}
+header p {
+    background-color: #1CD1B0;
+    margin-bottom: 0px;
+    padding: 7px;
+}
+header h1{
+    background-color: #00669F;
+    margin-top: 0px;
+    padding: 30px;
+}
+section{
+    margin: 130px 0 ;
+    text-align: center;
+}
+article{
+    background-color: #efefef;
+    border-radius: 18px;
+    display: inline-block;
+    margin: 20px;
+    width: 300px;
+}
+.encabezadoBatman{
+    text-transform: uppercase;
+}
+p {
+    text-align: justify;
+    padding: 20px
+}
+.img_heroe {
+    border-radius: 50%;
+    bottom: 66px;
+    position: relative;
+}
+.cta{
+    background-color: #00669F;
+    border: none;
+    height: 48px;
+    margin-bottom: 18px;
+    padding: 15px 20px;
+    text-align: center;
+    width: 128px;
+}
+.cta a{
+    align-items: center;
+    color: #F3F3F3;
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+footer{
+    background-color: #00669F;
+}
+.derechos_reservados{
+    color: #FFF9F9;
+    font-size: 16px;
+    font-weight: 400;
+}
