@@ -1,0 +1,48 @@
+/*------------------- Body --------------------------*/
+body{
+    font-family: 'Times New Roman', serif ;
+}
+/*------------------- Header --------------------------*/
+
+header img {
+    align-items: center;
+}
+header h1 {
+color : #005677 ;
+font-size: 35px;
+font-weight: 700;
+background-color:#C4C4C4 ;
+text-align: center;
+text-transform: uppercase;
+font-feature-settings: 'cpsp' on;
+}
+.logoBatman{
+    text-align: center;
+}
+
+/*------------------- Section --------------------------*/
+section h3 {
+    background-color: #C4C4C4;
+    color : #005677 ;
+}
+section .formAcadem, .expLaboral{
+    list-style: none;
+}
+.tabulacion{
+    text-indent: 87px;
+}
+span{
+    margin: 30px;
+}
+/*------------------- Footer --------------------------*/
+
+footer{
+    background-color: #005677;
+}
+footer ul{
+    list-style: none;
+}
+.tel{
+    color: white;
+    text-decoration: none;
+}
